@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import os
-from datetime import datetime
 
 import twitter
 
